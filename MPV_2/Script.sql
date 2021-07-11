@@ -1,1 +1,4 @@
-SELECT * FROM ddd.users;
+SELECT
+       *,
+       2 as ind
+FROM ddd.users;
